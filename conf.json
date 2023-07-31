@@ -1,0 +1,5 @@
+{
+    "confidence_threshold": 0.7,
+    "max_objects": 10,
+    "show_labels": true
+}
